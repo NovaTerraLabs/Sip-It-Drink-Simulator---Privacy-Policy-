@@ -2,101 +2,72 @@
 
 _Last updated: 15 October 2026_
 
-Sip It: Drink Simulator ("the app") is a game for Android in which you hold your
-phone like a glass and tilt it to drink. The app is made by [DEVELOPER NAME]
-("we", "us"). This policy explains what information the app handles and how.
+Sip It: Drink Simulator ("the app") is a game that simulates drinking from a
+glass. It is made by NovaTerra Labs ("we"). This policy explains what
+information the app handles.
 
 ## Summary
 
-The app does not collect, store, share or sell any personal information. It has
-no accounts, no advertising, no analytics, no tracking and no in-app purchases.
-Nothing you do in the app is sent to us or to anyone else.
+The app does not collect, store on our servers, share or sell any personal
+information. It has no accounts, no advertising, no analytics, no tracking, no
+chat and no in-app purchases.
 
-## Information used on your device
+## Information the app uses on your device
 
-The app uses the following only on your device, while you use it:
-
-- **Motion sensors.** The app reads your phone's gravity and motion sensors to
-  tilt the drink in the glass and to detect when you shake the phone to refill
-  it. These readings are processed in real time and are not recorded, stored or
+- **Motion sensors.** The app reads your phone's gravity and accelerometer
+  sensors while you play, to tilt the drink readings
+  are used on your device in real time only. They are not recorded, stored or
   sent anywhere.
-- **Your settings.** The music volume you choose in Options is saved in the
-  app's private storage on your device so that it is remembered next time. It
-  does not leave your device, except as described under "Device backups".
+- **Your settings.** The music volume you choose in Options is saved on your
+  device so it is remembered next time. It never leaves your device, except as
+  described under "Device backups" below.
 
 ## Information we collect
 
-None. We do not collect any personal or non-personal information, and the app
-does not send any data to us or to any third party.
+None. The app does not send any data to us o not
+use the internet to transmit information about you or your device.
 
 ## Permissions
 
-The app does not ask for access to your location, contacts, camera, microphone,
-photos, files or any other personal data. On Android it declares only:
-
-- **Change audio settings** (`MODIFY_AUDIO_SETTINGS`), used to play the app's
-  music and sound effects.
-- **Internet access** (`INTERNET`), included by the app's framework. The app
-  does not use it to send any information about you or your device.
-
-Motion sensors do not need a permission on Android.
+The app does not request access to your location, contacts, camera, microphone,
+photos, files or any other personal data. Th
+declares are standard ones needed to run and play sound (adjusting audio
+settings). The internet permission is includs not
+used to send any data about you.
 
 ## Device backups
 
-If Android backup is turned on for your Google account, Android may include the
-app's saved setting (the music volume) in your device backup. That backup is
-handled by Google under its own privacy policy, and we have no access to it.
+If Android backup is turned on for your Googde the
+app's saved settings (the music volume) in your device backup. Google handles
+that backup under its own privacy policy; we have no access to it.
 
-## Third parties
+## Children
 
-The app contains no third-party advertising, analytics or tracking services.
-The background music, "Smooth Jazz Loop 80BPM" by DenisPavlovMusic, is used
-under the Creative Commons Attribution 4.0 licence. It is bundled inside the app
-and playing it does not involve any online service.
+Sip It: Drink Simulator is suitable for all  every
+drink in the app is a juice, soda, smoothie, shake, tea or coffee. The app does
+not collect any personal information from anyone, including children under 13,
+so there is nothing to share, sell or delete. It has no ads, no accounts, no
+chat and no in-app purchases.
 
-The app is distributed through Google Play. Google may collect information when
-you download or update apps, under Google's own privacy policy
-(https://policies.google.com/privacy).
+## Third-party content
 
-## Data retention and deletion
+The background music is "Smooth Jazz Loop 80
+used under the Creative Commons Attribution 4.0 licence. It is bundled with the
+app; playing it involves no third-party serv
 
-Because we collect no data, we hold nothing about you. The only stored setting
-is on your own device. You can delete it at any time by clearing the app's data
-in your phone's settings or by uninstalling the app.
+Google Play, through which you install the app, may collect information under
+Google's own privacy policy.
 
-## Your rights
+## Deleting your data
 
-Data protection laws such as the EU and UK General Data Protection Regulation
-(GDPR) give you rights over personal data held about you. Because the app does
-not collect or process personal data, we hold no data to access, correct or
-delete. If you have a question about this, contact us using the address below.
-
-## Children and alcohol
-
-Sip It: Drink Simulator is a simulation only. No real alcohol is involved, and
-the app does not encourage drinking alcohol. The app has a drinking theme and is
-not directed at children. Because the app collects no information at all, it
-does not collect personal information from children.
-
-## Security
-
-The app does not transmit data, so there is no data in transit or on our
-servers that could be exposed. The saved setting stays in the app's private
-storage, which other apps cannot read.
+The only stored item is the music volume on 's
+data or uninstalling the app removes it.
 
 ## Changes to this policy
 
-If the app ever starts handling information
-servers that could be exposed. The saved setting stays in the app's private
-storage, which other apps cannot read.
-
-## Changes to this policy
-
-If the app ever starts handling information differently, we will update this
-policy and the date above before that version is released. The current version
-is always available at this page.
+If the app ever starts handling data differently, we will update this policy
+and the date above before that version is re
 
 ## Contact
 
-If you have any questions about this privacy policy, contact us at:
-[CONTACT EMAIL]
+Questions about this policy: novaterralabs0@gmail.com
