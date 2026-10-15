@@ -2,8 +2,8 @@
 
 _Last updated: 15 October 2026_
 
-Sip It: Drink Simulator ("the app") is a game that simulates drinking from a
-glass. It is made by NovaTerra Labs ("we"). This policy explains what
+Sip It: Drink Simulator is a game that simulates drinking from a
+glass. It is made by NovaTerra Labs. This policy explains what
 information the app handles.
 
 ## Summary
